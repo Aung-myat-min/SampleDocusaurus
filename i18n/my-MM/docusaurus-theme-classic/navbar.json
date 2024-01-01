@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "SampleDocusaurus🦖",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "SampleDocusaurus🦖 Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.API": {
+    "message": "အေပီအိုင်",
+    "description": "Navbar item with label API"
+  },
+  "item.label.FAQ": {
+    "message": "ဖက်အေကျူ",
+    "description": "Navbar item with label FAQ"
+  }
+}
